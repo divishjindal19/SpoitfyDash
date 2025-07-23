@@ -46,5 +46,3 @@ This project transforms raw Spotify music metadata into a powerful, interactive 
 
 ---
 
-## 📂 Project Structure
-
