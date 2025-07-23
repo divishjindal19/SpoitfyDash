@@ -4,8 +4,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from tqdm import tqdm
 
 # ========== SET THESE ==========
-CLIENT_ID = "c0b8e3b42b4d42ff9405308674d94fef"
-CLIENT_SECRET = "e5b2103375de4645a9e15caa365e3f40"
+CLIENT_ID = "YOUR_CLIENT_ID"
+CLIENT_SECRET = "YOUR_SECRET_ID"
 csv_file = "spotify-2023.csv"  # Your dataset file
 output_file = "spotify_with_urls.csv"
 # ================================
